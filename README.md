@@ -42,5 +42,5 @@ Through this project, I learned how to:
 
 ---
 
-## 📂 Project Structure
+
 
